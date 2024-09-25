@@ -51,7 +51,7 @@ class Room
     end
   end
   
-  # Example usage
+
   room = Room.new("Lounge", "A place to relax and chat")
   user1 = User.new("Phone", "Phone@example.com", "passw0rd")
   user2 = User.new("PhonePy", "PhonePy@example.com", "passw0rd2")
